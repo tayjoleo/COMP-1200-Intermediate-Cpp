@@ -1,0 +1,64 @@
+Passenger      Row   Seat
+
+
+Number of passengers = 0
+Passenger      Row   Seat
+
+J. Doe              1     2
+P. Smith            5     3
+T. Jones            3     1
+T. Evans            3     2
+R. Wieczorek        4     3
+E. Allen            5     1
+
+Number of passengers = 6
+Passenger      Row   Seat
+
+J. Doe              1     2
+P. Smith            5     3
+T. Jones            3     1
+T. Evans            3     2
+R. Wieczorek        4     3
+E. Allen            5     1
+Clark Day           7     2
+
+Number of passengers = 7
+Passenger      Row   Seat
+
+J. Doe              1     2
+P. Smith            5     3
+T. Jones            3     1
+T. Evans            3     2
+R. Wieczorek        4     3
+E. Allen            5     1
+Clark Day           7     2
+Person Person       8     1
+
+Number of passengers = 8
+Passenger      Row   Seat
+
+J. Doe              1     2
+P. Smith            5     3
+T. Jones            3     1
+T. Evans            3     2
+R. Wieczorek        4     3
+E. Allen            5     1
+Clark Day           7     2
+Person Person       8     1
+Dude Dude           2     3
+
+Number of passengers = 9
+Passenger      Row   Seat
+
+J. Doe              1     2
+P. Smith            5     3
+T. Jones            3     1
+T. Evans            3     2
+R. Wieczorek        4     3
+E. Allen            5     1
+Clark Day           7     2
+Person Person       8     1
+Dude Dude           2     3
+Blagh Blagh         9     2
+
+Number of passengers = 10
